@@ -1,3 +1,6 @@
 # Dev_Ops_Project
 
-Github Action Test for Devops course
+Github Action Test for Devops course, two actions flows has been created
+1. Deploy static content to Pages ( It would be triggered while index.html changes
+2.  Greeting messages would be send will pull request triggered
+
